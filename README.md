@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a **Data Science / Data Analytics internship**
 
-- 📫 How to reach me **upekshaisuri99@gmail.com**
+- 📫 How to reach me **upekshaisuri99@gmail.com** / **linkedin.com/in/isuri-upeksha-34b181220**
 
 
 <h3 align="center">Languages and Tools:</h3>
