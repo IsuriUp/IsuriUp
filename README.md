@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Isuri Upeksha</h2>
 <h4 align="center">Final year undergraduate at University of Colombo | Bsc(Hons) It and Management, passionate about using data to uncover insights and solve problems. I also enjoy creating ML models and continuously exploring new technologies</h4>
 
-- 🔭 I’m currently looking for a **Data Science / Data Analytics internship**
+- 🔭 I’m currently looking for a **Data Science / Data Analytics or Data Engineer internship**
 
 - 📫 How to reach me- **upekshaisuri99@gmail.com**
 
